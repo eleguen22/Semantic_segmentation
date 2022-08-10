@@ -1,0 +1,4 @@
+https://towardsdatascience.com/building-a-custom-semantic-segmentation-model-abb0843ac12d
+https://www.v7labs.com/blog/semantic-segmentation-guide
+https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras/notebook
+https://www.kaggle.com/code/ligtfeather/semantic-segmentation-is-easy-with-pytorch/notebook
